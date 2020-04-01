@@ -1,6 +1,6 @@
 # April fool's day webpage
 
-This is a fake mobile webpage that mocking Apple's web design, in order to be look like official apple promotion page, written in Korean.
+This is a fake mobile webpage that mimicking Apple's web design, in order to be look like official apple promotion page, written in Korean.
 
 Please notice that there were either no profit, nor any kind of illegal attempts through this webpage. This webpage was only written for my sole educational, entertaining purpose. Code is written without any comments, and spaghetti-code-fashioned. ;p
 
